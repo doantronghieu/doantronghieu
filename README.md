@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Software Engineering, AI<br><br>👨‍💻 All of my projects are available at https://github.com/doantronghieu<br><br>📫 How to reach me https://www.linkedin.com/in/tronghieu2810/
+🔭 I’m currently working on Software Engineering, Machine Learning
 
 
 ## 🌐 Socials:
