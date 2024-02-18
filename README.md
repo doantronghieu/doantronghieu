@@ -23,7 +23,17 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=doantronghieu&theme=dark&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=doantronghieu&theme=dark&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=doantronghieu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=doantronghieu&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=doantronghieu&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doantronghieu&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 
 ## 🏆 Trophies
@@ -45,8 +55,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=doantronghieu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ddoantronghieu) 
-
+# 💰 Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ddoantronghieu) 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
