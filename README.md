@@ -17,16 +17,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=doantronghieu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Things
-<style>
-    .center {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        flex-direction: column;
-    }
-</style>
-
-<div class="center">
+<div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
     <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' />
     <img src='https://randommeme-five.vercel.app/' style="height: 400px;" />
 </div>
