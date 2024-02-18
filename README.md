@@ -11,7 +11,9 @@
 
 
 ## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=doantronghieu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-profile-trophy.vercel.app/?username=doantronghieu&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Profile Trophy" />
+</div>
 
 ## 🔝 Top Contributed Repo
 <p align="center">
