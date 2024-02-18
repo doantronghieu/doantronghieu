@@ -14,7 +14,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=doantronghieu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=doantronghieu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=doantronghieu&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Contributor Stats" />
+</p>
 
 # ✍️ Random Dev Quote
 <div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
