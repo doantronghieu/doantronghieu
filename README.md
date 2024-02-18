@@ -47,10 +47,11 @@
 </p>
 
 # ✍️ Random Dev Quote
-<div style="display: flex; align-items: center; justify-content: center; flex-direction: column;">
+<p align="center">
     <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical' />
-    <img src='https://randommeme-five.vercel.app/' style="height: 400px;" />
-</div>
+    <img src='https://randommeme-five.vercel.app/' height="400" />
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=doantronghieu&icon=0&color=0)](https://visitcount.itsvg.in)
