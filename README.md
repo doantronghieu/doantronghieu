@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Trong Hieu Doan 👋</h1>
+<h1 align="center">Hi, I'm Hieu 👋</h1>
 
 <p align="center">
   <em>Software Engineer & Machine Learning Enthusiast</em>
